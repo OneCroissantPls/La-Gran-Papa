@@ -1,0 +1,15 @@
+
+.gtn-container{
+    text-align: center;
+}
+#gtn-title{
+    background-color: rgb(231, 124, 2);
+}
+#gtn-wwf{
+    font-size: 20px;
+    color: sienna;
+}
+p{
+    color: teal;
+    font-size: 25px;
+}
